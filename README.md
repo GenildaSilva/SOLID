@@ -1,5 +1,10 @@
 # SOLID
 Example how to implement SOLID in Frontend using Typescript
+
+
+
+Introdution:
+
 SOLID são princípios do design de classes orientado a objetos. Eles são um conjunto de regras e práticas recomendadas a serem seguidas na criação de uma estrutura de classe.
 
 São cinco princípios que nos ajudam a entender a necessidade de determinados padrões de projetos e arquitetura de software em geral. São eles:
