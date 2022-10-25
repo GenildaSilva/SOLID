@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {   
+    "target": "es2017",                                      
+    "module": "commonjs",      
+    "allowJs": true,  //algumas bibliotecas não suportam Typescript, então por isso allojs                        
+    "esModuleInterop": true,                                                    
+    "forceConsistentCasingInFileNames": true,            
+    "strict": true,     
+    "strictPropertyInitialization": false,                                       
+    "skipLibCheck": true                                
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
